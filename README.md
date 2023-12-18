@@ -1,1 +1,2 @@
 # CODSOFT
+Welcome to my GitHub repository documenting the exciting journey of my frontend web development internship. Throughout this internship, I had the opportunity to work on a variety of tasks that enhanced my skills and understanding of modern web development. From crafting responsive user interfaces to implementing dynamic features, each task showcases my commitment to delivering clean and efficient code. Explore the folders to discover the projects and tasks I undertook during this enriching internship. Your feedback is always appreciated!
